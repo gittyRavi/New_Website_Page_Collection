@@ -16,7 +16,6 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="jquery.buttons.js"></script>
-<script src="jquery.archive_buttons.js"></script>
 
 <link rel="stylesheet" type="text/css" href="style3.css">
 
