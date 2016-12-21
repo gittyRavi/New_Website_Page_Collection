@@ -44,14 +44,23 @@ html,body
 }
 button
 {
-	background:green;border:2px;position:relative;border-radius:25%;align:center;width:device-width;
+	background:green;
+	border:2px;
+	position:relative;
+	border-radius:25%;
+	text-align:center;
+	width:device-width;
 	
 }
 button:hover
 {
-	background:skyblue;border:0px;position:relative;
+	background:skyblue;
+	border:0px;
+	position:relative;
 }
 div>#header:hover
 {
-	font-family:lucidia;font-weight:bold;color:green;
+	font-family:lucidia;
+	font-weight:bold;
+	color:green;
 }
