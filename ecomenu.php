@@ -2,6 +2,8 @@
 <HEAD>
 
 <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Language" content="en">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="A New Website.">
 <meta name="author" content="Ravi Saxena">
