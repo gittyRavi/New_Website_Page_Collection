@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A New Website.">
+<meta name="author" content="Ravi Saxena">
+<title>Music & Videos</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="jquery.buttons.js"></script>
+<script src="jquery.archive_buttons.js"></script>
+
+<link rel="stylesheet" type="text/css" href="style3.css">
+
+<style> 
+body,html
+	{
+		text-align: center;
+		width: device-width;
+	}
+body
+{
+    background-image: url("http://i.imgur.com/05snjDK.gif");
+    background-repeat: repeat-y;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size:100%;
+}
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding-left: 20px 20px 40px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 100%;
+	border-color: red;
+}
+input[type=submit] {
+	background-color: grey;
+	color:white;
+	width:90%;
+	border:10px;
+	padding:1%;
+	opacity:0.8;
+	border-radius:40%;
+}
+z
+{
+	color: red;
+}
+.square
+	{
+		height:12em;
+		width: 12em;
+		border-radius:20%;
+		z-index:-1;
+		-ms-transform: rotate(45deg); /* IE 9 */
+		-webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+		transform: rotate(45deg);
+		vertical-align:center;
+	}
+div>#t
+	{
+		text-align:center;
+		horizontal-align:center;
+		vertical-align:center;
+		padding:2%;
+		padding-top:10%;
+		padding-right:20%;
+		transform:rotate(-45deg);
+		position: relative;
+	}
+</style>
+
+<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script tpye="text/javascript">
+$(document).ready(function()
+{
+    var url = window.location.href;
+    var search_val_raw = url.split("?q=")[1];
+    var search_val_count = search_val_raw.split("+");
+    var search_val;
+
+    for(var i = 0; i < search_val_count.length; i++)
+    {
+        search_val = search_val_count[i];
+
+        $("#search-results p:contains(" + search_val + ")").show();
+    }
+});
+</script>
+
+<style type="text/css">
+#search-results p{display: none;}
+</style>-->
+
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="header" style="opacity: 0.9;background-color:violet;">Search The Content<br/>
+<pre><button id="home">HOME</button>  <button id="id1">MENU</button>  <button id="id2">ARCHIVE</button>  <button id="id3">TEXT</button></pre>
+</div>
+
+<div id="content">
+
+<hr width="50%" height="2%" color="red"/>
+<hr width="60%" height="2%" color="green"/>
+<hr width="50%" height="2%" color="blue"/>
+<div>		<!--<div id="search-results">-->
+<H1 style="color:purple;top:1px;position:relative;font-size:4vw;">Search Songs, Music & Videos</H1>
+</div>
+<hr width="50%" height="2%" color="red"/>
+<hr width="60%" height="2%" color="green"/>
+<hr width="50%" height="2%" color="blue"/>
+<br/>
+<br/>
+<center>
+<z>
+<div class="square" style="background-color:yellow;">
+<div id="t">
+<H3>1.Youtube Videos</H3>
+<form action="https://www.youtube.com/results?search_query=" method="GET">
+<input type="text" name="q" placeholder="Search Youtube" style="text-align:center;"/><br/><br/>
+<input type="submit" value="Search Youtube"/>
+</form>
+</div>
+</div>
+</z>
+<br/>
+<z>
+<div class="square" style="background-color:palegreen;">
+<div id="t">
+<br/>
+<H3>2.Database Songs &nbsp</H3>
+<br/>
+<form action="D:/HD Songs/" method="POST">
+<input type="submit" value="Search Songs"/>
+</form>
+</div>
+</div>
+</z>
+</center>
+</div>
+
+<div id="footer" style="position:relative;bottom:0px;opacity:0.9;background-color:#BB1B9D;">										<!--footer-->
+<button id="id4">CONTACT</button><br/><br/>
+<span style="font-size:0.7em">Dated 9/12/16.</span>
+</div>
+
+</div>
+
+</body>
+</html>
