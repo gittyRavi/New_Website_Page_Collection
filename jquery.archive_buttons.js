@@ -35,7 +35,8 @@ $(document).ready(function(){
       		 left : '85%',
       		 opacity :'0',
       		},2000);
-
+		function d(){window.location="search_video.html";}
+		d();
 
   });
  });
