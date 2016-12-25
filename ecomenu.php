@@ -86,134 +86,134 @@ Search The Content<br/>
 <table>										 <!--table open-->
 
 <tr>											<!--row1-->
-<td>
+<td><a href="new_look(webpage_bald_eagle).php">
 <button class="circle" style="background: red;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:1em;color: white">
-<a href="new_look(webpage_bald_eagle).php">Eagle</a>
+<H3 style="font-size:1em;">
+Eagle
 </H3>
-</button>
+</button></a>
 </td>
-<td>
+<td><a href="new_look(webpage_gangetic_dolphin).php">
 <button class="circle" style="background: violet;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:0.8em;color: white">
-<a href="new_look(webpage_gangetic_dolphin).php">Dolphin</a>
+<H3 style="font-size:0.8em;">
+Dolphin
 </H3>
-</button>
+</button></a>
 </td>
-<td>
+<td><a href="">
 <button class="circle" style="background: red;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:1em;color: white">
+<H3 style="font-size:1em;">
 
 </H3>
-</button>
+</button></a>
 </td>
-<td>
+<td><a href="">
 <button class="circle" style="background: violet;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:0.9em;color: white">
+<H3 style="font-size:0.9em;">
 
 </H3>
-</button>
+</button></a>
 </td>
 </tr>
 
 <tr>											<!--row2-->
-<td>
+<td><a href="new_look(webpage_green_sea_turtle).php">
 <button class="circle" style="background: pink;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:1em;color: white">
-<a href="new_look(webpage_green_sea_turtle).php">Turtle</a>
+<H3 style="font-size:1em;">
+Turtle
 </H3>
-</button>
+</button></a>
 </td>
-<td>
+<td><a href="new_look(webpage_snow_leopard).php">
 <button class="circle" style="background: green;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:0.8em;color: white">
-<a href="new_look(webpage_snow_leopard).php">Leopard</a>
+<H3 style="font-size:0.8em;">
+Leopard
 </H3>
-</button>
+</button></a>
 </td>
-<td>
+<td><a href="">
 <button class="circle" style="background: pink;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:1em;color: white">
+<H3 style="font-size:1em;">
 
 </H3>
-</button>
+</button></a>
 </td>
-<td>
+<td><a href="">
 <button class="circle" style="background: green;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:0.9em;color: white">
+<H3 style="font-size:0.9em;">
 
 </H3>
-</button>
+</button></a>
 </td>
 </tr>
 
 <tr>											<!--row3-->
-<td>
+<td><a href="new_look(webpage_western_hoolock_gibbon).php">
 <button class="circle" style="background: green;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:0.85em;color: white"> 
-<a href="new_look(webpage_western_hoolock_gibbon).php">Gibbon</a>
+<H3 style="font-size:0.85em;">
+Gibbon
 </H3>
-</button>
+</button></a>
 </td>
-<td>
+<td><a href="">
 <button class="circle" style="background: pink;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:0.9em;color: white"> 
+<H3 style="font-size:0.9em;">
 
 </H3>
-</button>
+</button></a>
 </td>
-<td>
+<td><a href="">
 <button class="circle" style="background: green;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:0.9em;color: white"> 
+<H3 style="font-size:0.9em;">
 
 </H3>
-</button>
+</button></a>
 </td>
-<td>
+<td><a href="">
 <button class="circle" style="background: pink;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:0.9em;color: white"> 
+<H3 style="font-size:0.9em;">
 
 </H3>
-</button>
+</button></a>
 </td>
 </tr>
 
 <tr>											<!--row4-->
-<td>
+<td><a href="new_look(webpage_bengal_tiger).php">
 <button class="circle" style="background: violet;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:1em;color: white">
-<a href="new_look(webpage_bengal_tiger).php">Tiger</a>
+<H3 style="font-size:1em;">
+Tiger
 </H3>
-</button>
+</button></a>
 </td>
 <td>
 <button class="circle" style="background: red;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:1em;color: white">
+<H3 style="font-size:1em;"><a href="">
 
 </H3>
 </button>
 </td>
-<td>
+<td><a href="">
 <button class="circle" style="background: violet;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:1em;color: white">
+<H3 style="font-size:1em;">
 
 </H3>
-</button>
+</button></a>
 </td>
-<td>
+<td><a href="">
 <button class="circle" style="background: red;">
-<H3 style="horizontal-align:center;vertical-align:center;text-align:center;padding:1px;font-size:1em;color: white">
+<H3 style="font-size:1em;">
 
 </H3>
-</button>
+</button></a>
 </td>
 </tr>
 </table>									<!--table1 close-->
 </center>
-
+	
 <H1> &nbsp </H1>
 
-<div id="footer" style="position:relative;bottom:0px">										<!--footer-->
+<div id="footer" style="position:relative;bottom:0px">					<!--footer-->
 <button id="id4">CONTACT</button><br/><br/>
 <span style="font-size:0.7em">Dated 9/12/16.</span>
 </div>
