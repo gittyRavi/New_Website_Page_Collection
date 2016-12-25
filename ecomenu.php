@@ -10,12 +10,6 @@
 
 <TITLE>Eco</TITLE>
 
-<div id="header">Search The Content<br/>
-<pre><button id="home">HOME</button>  <button id="id1">MENU</button>  <button id="id2">ARCHIVE</button>  <button id="id3">TEXT</button></pre>
-</div>
-
-
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="jquery.buttons.js"></script>
 
@@ -70,6 +64,15 @@
 <link rel="stylesheet" type="text/CSS" href="mystyle.css">
 </HEAD>
 <body>
+	
+<div id="wrapper">
+
+<div id="header">
+Search The Content<br/>
+<pre><button id="home">HOME</button>  <button id="id1">MENU</button>  <button id="id2">ARCHIVE</button>  <button id="id3">TEXT</button>
+</pre>
+</div>
+
 <H1 class="class3"><center>Ecology, Environment & Animals</center></H1>
 
 <z class="t" align="center">
@@ -214,5 +217,8 @@
 <button id="id4">CONTACT</button><br/><br/>
 <span style="font-size:0.7em">Dated 9/12/16.</span>
 </div>
+
+</div>
+
 </BODY>
 </HTML>
