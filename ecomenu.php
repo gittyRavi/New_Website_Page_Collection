@@ -63,7 +63,7 @@
 </style>
 <link rel="stylesheet" type="text/CSS" href="mystyle.css">
 </HEAD>
-<body>
+<BODY>
 	
 <div id="wrapper">
 
@@ -100,17 +100,18 @@ Dolphin
 </H3>
 </button></a>
 </td>
-<td><a href="">
+<td><a href="sunderbans.php">
 <button class="circle" style="background: red;">
 <H3 style="font-size:1em;">
-
+Sunder-<br/>
+bans
 </H3>
 </button></a>
 </td>
-<td><a href="">
+<td><a href="andes.php">
 <button class="circle" style="background: violet;">
 <H3 style="font-size:0.9em;">
-
+Andes
 </H3>
 </button></a>
 </td>
@@ -131,17 +132,19 @@ Leopard
 </H3>
 </button></a>
 </td>
-<td><a href="">
+<td><a href="namib_desert.php">
 <button class="circle" style="background: pink;">
 <H3 style="font-size:1em;">
-
+Namib<br/>
+Desert
 </H3>
 </button></a>
 </td>
-<td><a href="">
+<td><a href="congo_forest.php">
 <button class="circle" style="background: green;">
 <H3 style="font-size:0.9em;">
-
+Congo<br/>
+Forest
 </H3>
 </button></a>
 </td>
@@ -155,24 +158,26 @@ Gibbon
 </H3>
 </button></a>
 </td>
-<td><a href="">
+<td><a href="new_look(webpage_scimitar_babbler).php">
 <button class="circle" style="background: pink;">
 <H3 style="font-size:0.9em;">
-
+Scimitar
 </H3>
 </button></a>
 </td>
-<td><a href="">
+<td><a href="great_barrier_reef.php">
 <button class="circle" style="background: green;">
 <H3 style="font-size:0.9em;">
-
+Great<br/>
+B.Reef
 </H3>
 </button></a>
 </td>
-<td><a href="">
+<td><a href="sahara_desert.php">
 <button class="circle" style="background: pink;">
 <H3 style="font-size:0.9em;">
-
+Sahara<br/>
+Desert
 </H3>
 </button></a>
 </td>
@@ -186,24 +191,26 @@ Tiger
 </H3>
 </button></a>
 </td>
-<td>
+<td><a href="new_look(webpage_sea_otter).php">
 <button class="circle" style="background: red;">
-<H3 style="font-size:1em;"><a href="">
-
-</H3>
-</button>
-</td>
-<td><a href="">
-<button class="circle" style="background: violet;">
 <H3 style="font-size:1em;">
-
+Sea<br/>
+Otter
 </H3>
 </button></a>
 </td>
-<td><a href="">
+<td><a href="pantanal.php">
+<button class="circle" style="background: violet;">
+<H3 style="font-size:1em;">
+Pantan-<br/>
+al
+</H3>
+</button></a>
+</td>
+<td><a href="arctic_region.php">
 <button class="circle" style="background: red;">
 <H3 style="font-size:1em;">
-
+Arctic
 </H3>
 </button></a>
 </td>
