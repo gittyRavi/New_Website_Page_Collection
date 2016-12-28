@@ -4,8 +4,7 @@ $(document).ready(function(){
       		 left : '85%',
       		 opacity :'0',
       		},2000);
-		function a(){window.location="learncplusplus.php";}
-		a();
+	setTimeout(function a(){window.location="learncplusplus.php";},2000);
 
 
   });
@@ -15,8 +14,7 @@ $(document).ready(function(){
       		 left : '85%',
       		 opacity :'0',
       		},2000);
-		function b(){window.location="learnjava.php";}
-		b();
+	setTimeout(function b(){window.location="learnjava.php";},2000);
 
   });
 
@@ -25,8 +23,7 @@ $(document).ready(function(){
       		 left : '85%',
       		 opacity :'0',
       		},2000);
-		function c(){window.location="ecomenu.php";}
-		c();
+	setTimeout(function c(){window.location="ecomenu.php";},2000);
 
   });
 
@@ -35,8 +32,7 @@ $(document).ready(function(){
       		 left : '85%',
       		 opacity :'0',
       		},2000);
-		function d(){window.location="search_video.html";}
-		d();
+	setTimeout(function d(){window.location="search_video.html";},2000);
 
   });
  });
