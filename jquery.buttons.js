@@ -5,7 +5,7 @@ $(document).ready(function(){
 	});
 
 	$("#id1").click(function(){
-		window.location = "ecomenu.php";
+		window.location = "menu.php";
 		return false;
 	});
 	
