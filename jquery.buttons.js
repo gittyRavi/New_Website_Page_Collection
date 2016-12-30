@@ -15,7 +15,7 @@ $(document).ready(function(){
 	});
 	
 	$("#id3").click(function(){
-		window.location = "new_look(webpage_bald_eagle).php";
+		window.location = "main_info.php";
 		return false;
 	});
 	
