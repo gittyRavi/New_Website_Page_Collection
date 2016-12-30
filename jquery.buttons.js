@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	$("#home").click(function(){
-		window.location = "homepage.html";
+		window.location = "index.html";
 		return false;
 	});
 
